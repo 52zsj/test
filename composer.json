@@ -1,0 +1,15 @@
+{
+    "name": "ajbiji/test",
+    "authors": [
+        {
+            "name": "傲杰笔记",
+            "email": "1095143545@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "aj\\tools\\": "src/"
+        }
+    }
+}
